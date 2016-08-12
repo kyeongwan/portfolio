@@ -15,12 +15,19 @@ This is my portfolio
 
 우즈베키스탄 현지 상공회의소 웹사이트를 안드로이드 네이티브 앱으로 리뉴얼하여 포팅함. 별도로 제공되는 API가 없어 모든 자료를 파싱기법을 통해 불러옴. 
 
+![chammber1](https://github.com/kyeongwan/portfolio/blob/master/img/chammber1.jpeg?raw=true)
+![chammber2](https://github.com/kyeongwan/portfolio/blob/master/img/chammber2.jpeg?raw=true)
 
 ### Round Up
 
 2015.12. ~ 2016.06.
 
 소프트웨어 마에스트로 2단계 프로젝트로, 1인칭 중심의 SNS가 아닌 1:N, 집단과 집단 사이의 소통을 만들어보고자 새로운 개념의 SNS를 만드는 프로젝트. 안드로이드 클라이언트 단을 담당함.
+
+![roundup1](https://github.com/kyeongwan/portfolio/blob/master/img/roundup1-min.jpg?raw=true)
+![roundup2](https://github.com/kyeongwan/portfolio/blob/master/img/roundup2-min.jpg?raw=true)
+
+[참조문서](https://github.com/kyeongwan/portfolio/blob/master/pdf/Roundup.pdf "참조문서")
 
 ### 고이접어
 
@@ -32,6 +39,8 @@ This is my portfolio
 고이접어는 위치기반 메신저 서비스로, 특정 장소에 메시지를 남기면 그 장소에서만 메시지를 열람할 수 있는 것이 특징입니다. 특정 대상뿐만 아니라 다수에게도 메시지를 남길 수 있습니다.
 
 서버개발을 담당하였음.
+
+[참조문서](https://github.com/kyeongwan/portfolio/blob/master/pdf/%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%A5.pdf "참조문서")
 
 ### Game Talk
 2015.09 ~ 2015.11.
