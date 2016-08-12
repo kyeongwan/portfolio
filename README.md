@@ -14,9 +14,6 @@ This is my portfolio
 
 우즈베키스탄 현지 상공회의소 웹사이트를 안드로이드 네이티브 앱으로 리뉴얼하여 포팅함. 별도로 제공되는 API가 없어 모든 자료를 파싱기법을 통해 불러옴. 
 
-![chammber1](https://github.com/kyeongwan/portfolio/blob/master/img/chammber1.jpeg?raw=true "width:108px;height:192px")
-![chammber2](https://github.com/kyeongwan/portfolio/blob/master/img/chammber2.jpeg?raw=true "width:108px;height:192px")
-
 <p align="center">
 <img width="540px" height="960px" src="https://github.com/kyeongwan/portfolio/blob/master/img/chammber1.jpeg?raw=true"/>
 <img width="540px" height="960px" src="https://github.com/kyeongwan/portfolio/blob/master/img/chammber2.jpeg?raw=true"/>
