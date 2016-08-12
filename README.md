@@ -8,7 +8,7 @@ This is my portfolio
 
 무전기 및 비콘기능 추가 구현을 담당함.
 
-
+---
 ###	Uzbekistan Chammber.uz Android Native Application
 
 2016.07.12 ~ 2016.08.08
@@ -18,6 +18,7 @@ This is my portfolio
 ![chammber1](https://github.com/kyeongwan/portfolio/blob/master/img/chammber1.jpeg?raw=true)
 ![chammber2](https://github.com/kyeongwan/portfolio/blob/master/img/chammber2.jpeg?raw=true)
 
+---
 ### Round Up
 
 2015.12. ~ 2016.06.
@@ -29,6 +30,7 @@ This is my portfolio
 
 [참조문서](https://github.com/kyeongwan/portfolio/blob/master/pdf/Roundup.pdf "참조문서")
 
+---
 ### 고이접어
 
 2016.02 ~ 2016.02
@@ -42,16 +44,19 @@ This is my portfolio
 
 [참조문서](https://github.com/kyeongwan/portfolio/blob/master/pdf/%E1%84%80%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A5%E1%86%B8%E1%84%8B%E1%85%A5.pdf "참조문서")
 
+---
 ### Game Talk
 2015.09 ~ 2015.11.
 
 소프트웨어 마에스트로 1단계 2차 프로젝트로, 게임 중에도 채팅은 계속되어야 한다는 모티브로 언제든지 확인할 수 있도록 챗해드가 항상 떠 있고, 반투명한 View 위에서 채팅을 할 수 있도록 구성한 채팅 어플리케이션. 안드로이드 클라이언트 단을 담당함.
 
+---
 ### My Food
 2015.07. ~ 2015.09
 
 소프트웨어 마에스트로 1단계 1차 프로젝트로, 개인화된 요리 레시피 추천 어플리케이션. 앱 단에서 사용자가 선호하는 요리의 정보를 수집하고, 머신러닝을 통해 사용자가 좋아할만한 요리의 레시피를 보여주는 앱. 안드로이드 클라이언트 단을 담당함.
 
+---
 ### Waltz
 2014.12 ~ 2015.07
 링고플라이라는 언어교류 플랫폼을 운영하는 회사에서 공개 소프트웨어 지원 사업에 나가기 위해 WebRTC 를 활용한 화상 통화 공개 소프트웨어 앱을 만들었음. 사업 2차 심의에서 탈락하여 중지된 프로젝트. 안드로이드 클라이언트 단을 담당함.
