@@ -1,12 +1,17 @@
 # Portfolio
-This is my portfolio
+
+E-mail : chrein44@gmail.com
+
+Kakao : chrein
 
 # Project
 
 ## 달빛기사 추가기능 구현
-2016.08. ~ 2016. 08
+2016.08. ~
 
 무전기 및 비콘기능 추가 구현을 담당함.
+
+진행중..
 
 ##	Uzbekistan Chammber.uz Android Native Application
 
