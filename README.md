@@ -6,6 +6,15 @@ Kakao : chrein
 
 # Project
 
+## MetGO TV
+2017.03. ~ 04
+
+Server + Android 
+
+진행중..
+
+Android, Server(Java Vert.x)
+
 
 ## 달빛기사 추가기능 구현
 
