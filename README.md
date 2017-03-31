@@ -26,11 +26,6 @@ Android, Server(Java Vert.x, Node.js, PHP), 관리자 웹페이지
 
 Android
 
-<p align="center">
-<img width="540px" height="960px" src="https://github.com/kyeongwan/portfolio/blob/master/img/money/money1.png?raw=true"/>
-<img width="540px" height="960px" src="https://github.com/kyeongwan/portfolio/blob/master/img/money/money2.png?raw=true"/>
-</p>
-
 ## 옷고름
 
 2017.01.
